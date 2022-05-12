@@ -1,0 +1,5 @@
+python is easy to understand
+c++
+Java
+C
+
